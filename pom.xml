@@ -3,12 +3,12 @@
   <groupId>com.sod</groupId>
   <artifactId>sysfoo</artifactId>
   <packaging>war</packaging>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
   <name>Sysfoo Demo App</name>
   <url>http://maven.apache.org</url>
    <scm>
     <developerConnection>scm:git:https://github.com/ramprasadgk/sysfoo.git/</developerConnection>
-    <tag>sysfoo-1.3</tag>
+    <tag>sysfoo-1.1</tag>
   </scm>
   <distributionManagement>
 	  <snapshotRepository>
